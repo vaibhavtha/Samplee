@@ -16,3 +16,4 @@ Merge. If, after reviewing the modifications, the original owner would like to p
 Push. This is the reverse of a pull -- a programmer sends code from a local copy to the online repository.
 Commit. A commit, or code revision, is an individual change to a file or set of files. By default, commits are retained and interleaved onto the main project, or they can be combined into a simpler merge via commit squashing. A unique ID is created when each commit is saved that lets collaborators keep a record of their work. A commit can be thought of as a snapshot of a repository.
 Clone. A clone is a local copy of a repository.This is some additional content in sample.txt on feature-branch.
+This is some additional content in sample.txt on feature-branch.
